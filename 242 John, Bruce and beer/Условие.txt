@@ -1,0 +1,6 @@
+John, Bruce and beer
+John has some money. Bruce has some money too. They know price of a bottle of beer (unfortunately, beer is not free). How many bottles of beer can they buy, if they put together their money?
+Input
+The first row of input contains John’s amount of money. The second row contains Bruce’s amount of money. The third line contains the price of a bottle of beer. Each amount or price is represented by non-empty integer part, decimal point and exactly two digits after point. Each (John and Bruce’s) amount of money is non-negative and strictly less than 1000000.00. Beer is not free and costs strictly less than 1000.00.
+Output
+Your program should write exactly one integer: the maximal quantity of bottles guys can buy spending their money.
